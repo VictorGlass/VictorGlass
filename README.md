@@ -19,10 +19,10 @@
 </h2>
 
 <ul>
-- 🌱 Java.
-- 🌱 Python.
-- 🌱 SQL.
-- 🌱 MongoDB. 
+- 🌱 Java
+- 🌱 Python
+- 🌱 SQL
+- 🌱 MongoDB 
 </ul><br>
 
 
