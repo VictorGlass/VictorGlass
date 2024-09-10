@@ -14,34 +14,42 @@
 
 <h3>🚀 Actualmente, estoy en el programa de Oracle Next Education de Alura Latam, en la especialización de Backend con Java. </h3><br><br>
 
-<h2>
-  👨‍🎓 Aprendizaje Actual:
-</h2>
+<h2>Manejo con </h2>
+<h3>
+  - 🟧 HTML
+  - 🟦 CSS
+  - 🪀 Sass
+  - 🟨 JavaScript
+  - 🐍 Python
+  - ☕ Java
+  - 💾 SQL
+</h3><br>
 
-<ul>
+<h2 align="end">👨‍🎓 Aprendizaje Actual </h2>
+
+<h3 align="end">
 - 🌱 Java
 - 🌱 Python
 - 🌱 SQL
 - 🌱 MongoDB 
-</ul><br>
+</h3><br>
 
 
 
-
-<h2 align="center">📚 Estudios Diarios:</h2>
-<ul align="end">
+<h2>📚 Estudios Diarios </h2>
+<h3>
 - 100DaysOfCode
 - Python Interactivo
 - Curso de Java
 - Curso SQL
 - Curso de C#
-</ul><br>
+</h3><br>
 
-<h2>⚡ Datos curiosos:</h2>
-<ul>
+<h2 align="end">⚡ Datos curiosos </h2>
+<h3 align="end">
 - Nerd estudioso 🤣
 - Mucha lectura 📚
 - Música lofi-beats 🎧
-</ul>
+</h3>
 
 
