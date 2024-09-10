@@ -7,7 +7,7 @@
 <h2>👨‍💻 Acerca de Mi </h2>
 
 <h3>
-🙋‍♂️ Soy estudiante de Ingeniería en Informática, me encanta la programación las áreas de Backend, bases de datos, ciberseguridad, ciencia de datos, analisis de datos , machine learning entre otras.
+🙋‍♂️ Soy estudiante de Ingeniería en Informática, me encanta la programación, las áreas de Backend, bases de datos, ciberseguridad, ciencia de datos, analisis de datos , machine learning entre otras.
 </h3>
   
 <h3>🖱 Además, estudio de forma autodidacta, realizando cursos variados de distintos lenguajes de programación.</h3>
