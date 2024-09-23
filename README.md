@@ -3,7 +3,6 @@
 <h1 align="center">👋 Hola a todos! Soy VictorDev</h1><br>
 
 
-
 <h2>👨‍💻 Acerca de Mi </h2>
 
 <h3>
