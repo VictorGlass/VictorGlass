@@ -1,6 +1,6 @@
-<p align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D16AQHIMmS0veYd3g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1710970312551?e=1731542400&v=beta&t=jm6R1nIWdS59Y2Jnij_F6-yWmChZSItjcMFbegeq-4c" ></p>
+<p align="center"> <img src="" ></p>
 
-<h1 align="center">👋 Hola a todos! Soy VictorDev</h1><br>
+<h1 align="center">👋 ¡Hola! Soy Víctor Ignacio 👨‍💻</h1>
 
 
 <h2>👨‍💻 Acerca de Mi </h2>
