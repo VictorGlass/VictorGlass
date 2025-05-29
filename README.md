@@ -5,13 +5,21 @@
 
 <h2>👨‍💻 Acerca de Mi </h2>
 
-<h3>
-🙋‍♂️ Soy estudiante de Ingeniería en Informática, me encanta la programación, las áreas de Backend, bases de datos, ciberseguridad, ciencia de datos, analisis de datos , machine learning entre otras.
-</h3>
+<p align="center">
+  Estudiante de <strong>Ciberseguridad</strong> y <strong>Hacking Ético</strong> 🕵️‍♂️ con pasión por proteger sistemas, descubrir vulnerabilidades y aprender todos los días algo nuevo.  
+</p>
   
-<h3>🖱 Además, estudio de forma autodidacta, realizando cursos variados de distintos lenguajes de programación.</h3>
+### 🚀 Sobre mí
 
-<h3>🚀 Actualmente, estoy en el programa de Oracle Next Education de Alura Latam, en la especialización de Backend con Java. </h3><br><br>
+- 🎓 Estudiando **Ciberseguridad** en múltiples plataformas líderes:
+  - 🛡️ **Cisco**: En proceso de certificarme como **Analista Junior en Ciberseguridad**.
+  - 🧠 **Cybrary**: Completando **IT & Cybersecurity Foundations**, y luego... ¡**Penetration Tester** allá voy!
+  - 🏴‍☠️ **TryHackMe** & **Hack The Box**: Jugando y aprendiendo en entornos reales de hacking ético.
+  
+- 🧪 Apasionado por el **análisis de vulnerabilidades**, pruebas de penetración y la seguridad ofensiva/defensiva.
+- 🌐 También intereso en redes, sistemas operativos seguros, criptografía y privacidad digital.
+
+---
 
 <h2>Manejo con </h2>
 <h3>
