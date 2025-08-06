@@ -14,69 +14,78 @@
 
 <br/>
   
-### 🚀 Sobre mí
+### 🚀 Formación
 
-- 🎓 Actualmente me estoy formando como profesional en **Ciberseguridad** en plataformas líderes:
-  - 🛡️ **Cisco**: En proceso de certificarme como **Analista Junior en Ciberseguridad**.
-  - 🧠 **Cybrary**: Completando **IT & Cybersecurity Foundations**, y luego a por el curso de **Penetration Tester**.
-  - 🏴‍☠️ **TryHackMe** & **Hack The Box**: Aprendiendo hacking ético en entornos reales y gamificados.
+- 🎓 **Carrera completada:**  
+  - 🛡️ **Analista Junior en Ciberseguridad - Cisco Networking Academy**
 
-- 💻 Manejo diario de:
-  - **Sistemas operativos como Kali Linux y Ubuntu** para prácticas de seguridad ofensiva y defensiva.
-  - Herramientas de Kali como **Nmap, Wireshark, Burp Suite, John the Ripper, Metasploit, Hydra, Nikto**, entre otras.
-
-- 🧠 Interesado en:
-  - 🕵️ **OSINT (Open Source Intelligence)** para investigar objetivos y recolectar información públicamente accesible.
-  - 🔐 **Seguridad de redes, análisis de vulnerabilidades y explotación controlada**.
-  - 📡 Privacidad digital, hardening de sistemas y protección contra ciberamenazas.
-<br/>
+- 📚 Actualmente formándome en plataformas tales como:
+  - 🧠 **Cybrary**: IT & Cybersecurity Foundations, próximo: Penetration Tester.
+  - 🧠 **TryHackMe** & **Hack The Box**: Hacking ético en entornos reales y gamificados.
+  - 🧠 **TCM Security**
+  - 🧠 **Academia de Ciberseguridad**: Tecnico en Ciberseguridad.
+  - 🧠 **Udemy**: Pentesting en Seguridad Informatica. [Detecta] [Defiende].
 
 ---
 
-### 🎯 Objetivo
-<br/>
+### 💻 Herramientas y Tecnologías
 
-Convertirme en un **Hacker Ético profesional** que no solo defiende sistemas, sino que también educa e inspira a otros en el camino de la ciberseguridad.
-<br/>
+- **Sistemas Operativos:** Kali Linux, Ubuntu
+
+- **Herramientas de Ciberseguridad:**  
+  Nmap, Wireshark, Burp Suite, John the Ripper, Metasploit, Hydra, Nikto, y más.
+  
+- **Lenguajes:**  
+  - 🐍 Python — Automatización y scripting  
+  - ☕ Java — POO y lógica  
+  - 🐬 SQL — Consultas, análisis, e inyecciones SQL
+  - 🐧 Terminal & Bash avanzado
 
 ---
-<br/>
+
+
+### 📡 Intereses
+
+- 🔍 **OSINT** — Inteligencia de Fuentes Abiertas  
+- 🔐 **Seguridad de redes** y **explotación controlada de vulnerabilidades**  
+- 🧱 **Hardening de sistemas**, privacidad digital y defensa ante ciberamenazas
+
+---
+
+### 🎯 Objetivo Profesional
+
+Convertirme en un **Hacker Ético profesional**, capaz de defender sistemas, compartir conocimiento y motivar a otros a ingresar al mundo de la ciberseguridad.
+
+---
+
+### 📁 Proyectos y Conocimiento Compartido
+
+Todo lo que aprenda lo iré documentando y subiendo aquí, incluyendo:
+
+- 🧰 Scripts de pentesting
+- 📡 Análisis de tráfico de red
+- 🔒 Hardening y configuraciones seguras
+- 🐚 Automatización en Bash y Python
+- 🧠 Cheatsheets y guías rápidas de ciberseguridad
+
+---
+
+<h2 align="center">⚡ Datos curiosos</h2>
+
+<h3 align="center">
+📚 Nerd estudioso • 🎧 Música lofi mientras hackeo • 📖 Amante de la lectura técnica
+</h3>
+
+---
 
 <p align="center">
-  ⚠️ <em>Este perfil está en construcción constante... como cualquier buena red segura 😉</em>
+  ⚠️ <em>Este perfil está en constante evolución... como cualquier red bien protegida 😉</em>
 </p>
 
-<br/>
 
 
 
 
-### 💻 Conocimientos técnicos
 
-- 🐍 **Python** — Scripts, automatización, análisis de datos.
-- ☕ **Java** — Programación orientada a objetos, lógica y estructuras.
-- 🐬 **SQL** — Manejo de bases de datos, análisis y comprensión de inyecciones SQL.
-- 🖥️ Manejo de terminal, scripting en **Bash** y uso avanzado de sistemas GNU/Linux.
-<br/>
-
-
-### 📁 Todo lo que iré aprendiendo... ¡lo compartiré!
-
-🔍 Proyectos, herramientas, scripts y notas de estudio sobre:
-
-- 🧰 **Pentesting**  
-- 🖥️ **Análisis de tráfico de red**  
-- 🔒 **Buenas prácticas de hardening**  
-- 🐚 **Automatización en Bash y Python**  
-- 📘 Cheatsheets de ciberseguridad
-<br/>
-
-
-<h2 align="center">⚡ Datos curiosos </h2>
-<h3 align="center">
-- Nerd estudioso 🤣
-- Mucha lectura 📚
-- Música lofi-beats 🎧
-</h3>
 
 
