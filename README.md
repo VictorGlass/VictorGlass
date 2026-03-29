@@ -15,12 +15,13 @@
 <br/>
   
 ### 🚀 Formación
-
-- 🎓 **Carrera completada:**  
+  
   - 🛡️ **Analista Junior en Ciberseguridad - Cisco Networking Academy**
   - 🛡️ **MOOC en Ciberseguridad - Universidad de Málaga**
+  - 🎓 **Diplomado en Ciberseguridad - Universidad Autonoma de Chile (en curso)**
 
-- 📚 Actualmente formándome en plataformas tales como:
+### 📚 Aprendizaje continuo
+
   - 🧠 **Cybrary**: IT & Cybersecurity Foundations, próximo: Penetration Tester.
   - 🧠 **TryHackMe** & **Hack The Box**: Hacking ético en entornos reales y gamificados.
   - 🧠 **TCM Security**
@@ -29,33 +30,30 @@
 
 ---
 
-### 💻 Herramientas y Tecnologías
+## 💻 Stack Tecnológico
 
-- **Sistemas Operativos:** Kali Linux, Ubuntu
-
-- **Herramientas de Ciberseguridad:**  
-  Nmap, Wireshark, Burp Suite, John the Ripper, Metasploit, Hydra, Nikto, y más.
+### 🔐 Ciberseguridad
+'Nmap' 'Wireshark' 'Burp Suite' 'Metasploit' 'Hydra' 'Nikto' 'John the Ripper'
   
-- **Lenguajes:**  
-  - 🐍 Python — Automatización y scripting  
-  - ☕ Java — POO y lógica  
-  - 🐬 SQL — Consultas, análisis, e inyecciones SQL
-  - 🐧 Terminal & Bash avanzado
+### 🖥️ Sistemas Operativos
+'Kali Linux' 'Ubuntu'
+
+### 👨‍💻 Lenguajes y Scripting
+'Python' (Automatización)
+'Bash' (scripts y terminal avanzada)
+'Java' (POO)
+'SQL' (Consultas e Inyecciones)
 
 ---
 
+### Areas de Interés
 
-### 📡 Intereses
+🚧 *Actualmente en desarrollo — subiendo proyectos progresivamente*
 
-- 🔍 **OSINT** — Inteligencia de Fuentes Abiertas  
-- 🔐 **Seguridad de redes** y **explotación controlada de vulnerabilidades**  
-- 🧱 **Hardening de sistemas**, privacidad digital y defensa ante ciberamenazas
-
----
-
-### 🎯 Objetivo Profesional
-
-Convertirme en un **Hacker Ético profesional**, capaz de defender sistemas, compartir conocimiento y motivar a otros a ingresar al mundo de la ciberseguridad.
+- 🔗 Validador de URLs maliciosas (Python)
+- 🧰 Scripts de automatización para pentesting  
+- 📡 Análisis de tráfico con Wireshark  
+- 🔒 Configuraciones seguras (hardening) 
 
 ---
 
@@ -71,11 +69,17 @@ Todo lo que aprenda lo iré documentando y subiendo aquí, incluyendo:
 
 ---
 
-<h2 align="center">⚡ Datos curiosos</h2>
+## 🎯 Objetivo Profesional
 
-<h3 align="center">
-📚 Nerd estudioso • 🎧 Música lofi mientras hackeo • 📖 Amante de la lectura técnica
-</h3>
+Desarrollarme como profesional en ciberseguridad, aportando en la protección de sistemas, gestión de riesgos y detección de amenazas, combinando habilidades técnicas con una visión estratégica de la seguridad digital.
+
+---
+
+## ⚡ Extra
+
+📚 Aprendiz constante  
+🎧 Lofi + hacking mode  
+🔄 Perfil en evolución continua  
 
 ---
 
