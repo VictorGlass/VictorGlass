@@ -18,6 +18,7 @@
 
 - 🎓 **Carrera completada:**  
   - 🛡️ **Analista Junior en Ciberseguridad - Cisco Networking Academy**
+  - 🛡️ **MOOC en Ciberseguridad - Universidad de Málaga**
 
 - 📚 Actualmente formándome en plataformas tales como:
   - 🧠 **Cybrary**: IT & Cybersecurity Foundations, próximo: Penetration Tester.
