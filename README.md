@@ -1,96 +1,65 @@
-<p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFkcTJ3b3IwdHBrdW80bmFmZHBqZnpsdjM2Nm02dGEwY2x6d3d5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lo5HLcAPFSgTZNTpAn/giphy.gif" ></p>
-
-<h1 align="center">👋 ¡Hola! Soy Víctor Ignacio 👨‍💻</h1>
-<br/>
-
-<h2 align="center">👨‍💻 Acerca de Mi </h2>
-
-<br/>
-
-
-<h3 align="center">
-  Estudiante de <strong>Ciberseguridad</strong> y <strong>Hacking Ético</strong> 🕵️‍♂️ con pasión por proteger sistemas, descubrir vulnerabilidades y aprender todos los días algo nuevo.  
-</h3>
-
-<br/>
-  
-### 🚀 Formación
-  
-  - 🛡️ **Analista Junior en Ciberseguridad - Cisco Networking Academy**
-  - 🛡️ **MOOC en Ciberseguridad - Universidad de Málaga**
-  - 🎓 **Diplomado en Ciberseguridad - Universidad Autonoma de Chile (en curso)**
-
-### 📚 Aprendizaje continuo
-
-  - 🧠 **Cybrary**: IT & Cybersecurity Foundations, próximo: Penetration Tester.
-  - 🧠 **TryHackMe** & **Hack The Box**: Hacking ético en entornos reales y gamificados.
-  - 🧠 **TCM Security**
-  - 🧠 **Academia de Ciberseguridad**: Tecnico en Ciberseguridad.
-  - 🧠 **Udemy**: Pentesting en Seguridad Informatica. [Detecta] [Defiende].
-
----
-
-## 💻 Stack Tecnológico
-
-### 🔐 Ciberseguridad
-'Nmap' 'Wireshark' 'Burp Suite' 'Metasploit' 'Hydra' 'Nikto' 'John the Ripper'
-  
-### 🖥️ Sistemas Operativos
-'Kali Linux' 'Ubuntu'
-
-### 👨‍💻 Lenguajes y Scripting
-'Python' (Automatización)
-'Bash' (scripts y terminal avanzada)
-'Java' (POO)
-'SQL' (Consultas e Inyecciones)
-
----
-
-### Areas de Interés
-
-🚧 *Actualmente en desarrollo — subiendo proyectos progresivamente*
-
-- 🔗 Validador de URLs maliciosas (Python)
-- 🧰 Scripts de automatización para pentesting  
-- 📡 Análisis de tráfico con Wireshark  
-- 🔒 Configuraciones seguras (hardening) 
-
----
-
-### 📁 Proyectos y Conocimiento Compartido
-
-Todo lo que aprenda lo iré documentando y subiendo aquí, incluyendo:
-
-- 🧰 Scripts de pentesting
-- 📡 Análisis de tráfico de red
-- 🔒 Hardening y configuraciones seguras
-- 🐚 Automatización en Bash y Python
-- 🧠 Cheatsheets y guías rápidas de ciberseguridad
-
----
-
-## 🎯 Objetivo Profesional
-
-Desarrollarme como profesional en ciberseguridad, aportando en la protección de sistemas, gestión de riesgos y detección de amenazas, combinando habilidades técnicas con una visión estratégica de la seguridad digital.
-
----
-
-## ⚡ Extra
-
-📚 Aprendiz constante  
-🎧 Lofi + hacking mode  
-🔄 Perfil en evolución continua  
-
----
+<h1 align="center">Hi, I'm Victor Carrera 👋</h1>
 
 <p align="center">
-  ⚠️ <em>Este perfil está en constante evolución... como cualquier red bien protegida 😉</em>
+Junior IT Support & Cybersecurity Analyst
 </p>
 
+---
 
+## 🧠 About Me
 
+I am a Junior IT Support and Cybersecurity Analyst with hands-on experience in networking, systems, and security fundamentals.
 
+I focus on developing practical skills through real-world labs and projects, including vulnerability analysis, network scanning, and Python-based security tools.
 
+I am currently seeking opportunities in IT Support, Help Desk, or Junior Cybersecurity roles.
 
+---
 
+## 🚀 Featured Projects
 
+🔹 **Network Recon & Vulnerability Scanner**  
+Python tool to scan ports, identify services, and detect potential security risks.
+
+🔹 **URL Malware Analyzer**  
+Tool designed to analyze suspicious URLs and detect phishing patterns.
+
+🔹 **Password Security Auditor**  
+Script to evaluate password strength and identify weak credentials.
+
+📂 More projects: https://github.com/VictorGlass
+
+---
+
+## 🛠 Technical Skills
+
+**Cybersecurity**
+- Vulnerability analysis
+- Basic SOC / SIEM concepts
+- Offensive & defensive fundamentals
+
+**Networking & Systems**
+- TCP/IP, DNS, HTTP
+- Linux & Windows environments
+- Troubleshooting
+
+**Programming**
+- Python (automation & security tools)
+- SQL (basic)
+
+**Tools**
+- Nmap, Wireshark
+- Git / GitHub
+- TryHackMe, Hack The Box
+
+---
+
+## 🎯 Career Goal
+
+To grow as a cybersecurity professional contributing to system protection, risk management, and threat detection.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/...
