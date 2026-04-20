@@ -4,7 +4,7 @@
 Junior IT Support & Cybersecurity Analyst
 </p>
 
----
+
 
 ## 🧠 About Me
 
@@ -14,7 +14,7 @@ I focus on developing practical skills through real-world labs and projects, inc
 
 I am currently seeking opportunities in IT Support, Help Desk, or Junior Cybersecurity roles.
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -29,7 +29,7 @@ Script to evaluate password strength and identify weak credentials.
 
 📂 More projects: https://github.com/VictorGlass
 
----
+
 
 ## 🛠 Technical Skills
 
@@ -52,13 +52,13 @@ Script to evaluate password strength and identify weak credentials.
 - Git / GitHub
 - TryHackMe, Hack The Box
 
----
+
 
 ## 🎯 Career Goal
 
 To grow as a cybersecurity professional contributing to system protection, risk management, and threat detection.
 
----
+
 
 ## 📫 Contact
 
