@@ -2,107 +2,283 @@
 <html lang="en">
 
 <head>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Victor Gutierrez | Cybersecurity Portfolio</title>
+<title>VICTORSEC | Cybersecurity Portfolio</title>
 
-<style>
+<link rel="stylesheet" href="css/style.css">
 
-body{
-font-family: Arial, sans-serif;
-background:#0d1117;
-color:white;
-margin:0;
-padding:0;
-}
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&display=swap" rel="stylesheet">
 
-header{
-text-align:center;
-padding:50px;
-background:#161b22;
-}
-
-section{
-padding:30px;
-max-width:900px;
-margin:auto;
-}
-
-.card{
-background:#161b22;
-padding:20px;
-margin:20px 0;
-border-radius:10px;
-}
-
-a{
-color:#58a6ff;
-}
-
-</style>
 </head>
 
 <body>
 
+<div class="grid-background"></div>
+
 <header>
 
-<h1>Victor Gutierrez</h1>
+<nav>
 
-<h3>Junior IT Support / Cybersecurity Analyst</h3>
+<div class="logo">
+VICTORSEC
+</div>
 
-<p>
-Networking | Linux | Python | TryHackMe | Hack The Box
-</p>
+<ul>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#skills">Skills</a></li>
+
+<li><a href="#projects">Projects</a></li>
+
+<li><a href="#labs">Labs</a></li>
+
+<li><a href="#certs">Certs</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+</nav>
 
 </header>
 
-<section>
+<section class="hero">
 
-<div class="card">
+<div class="hero-content">
 
-<h2>About Me</h2>
-
-<p>
-Junior Cybersecurity Analyst passionate about ethical hacking,
-network security and Python automation.
+<p class="tag">
+// CYBERSECURITY PORTFOLIO
 </p>
 
-</div>
+<h1>
+Victor<br>
+<span>Gutierrez</span>
+</h1>
 
-<div class="card">
+<h2>
+Junior Cybersecurity Analyst
+</h2>
 
-<h2>Projects</h2>
+<p class="description">
 
-<ul>
+Networking • Linux • Python • Ethical Hacking
 
-<li>Malicious URL Checker</li>
+</p>
 
-<li>Python Network Scanner</li>
-
-<li>Linux Security Scripts</li>
-
-</ul>
-
-</div>
-
-<div class="card">
-
-<h2>Certifications</h2>
-
-<ul>
-
-<li>Cisco Networking Academy</li>
-
-<li>TCM Security</li>
-
-<li>TryHackMe</li>
-
-</ul>
+<a href="#projects" class="btn">
+View Projects
+</a>
 
 </div>
 
 </section>
+
+<section id="about">
+
+<h2>Who Am I?</h2>
+
+<p>
+
+Junior Cybersecurity Analyst focused on
+Linux, Networking, Python and Ethical Hacking.
+
+Currently building hands-on experience through
+DockerLabs, TryHackMe, Hack The Box,
+Cisco Networking Academy and TCM Security.
+
+</p>
+
+</section>
+
+<section id="skills">
+
+<h2>Skills</h2>
+
+<div class="skill">
+
+<span>Linux</span>
+
+<div class="bar">
+<div class="fill linux"></div>
+</div>
+
+</div>
+
+<div class="skill">
+
+<span>Networking</span>
+
+<div class="bar">
+<div class="fill networking"></div>
+</div>
+
+</div>
+
+<div class="skill">
+
+<span>Python</span>
+
+<div class="bar">
+<div class="fill python"></div>
+</div>
+
+</div>
+
+<div class="skill">
+
+<span>Cybersecurity</span>
+
+<div class="bar">
+<div class="fill security"></div>
+</div>
+
+</div>
+
+</section>
+
+<section id="projects">
+
+<h2>Projects</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>Malicious URL Checker</h3>
+
+<p>
+Python tool for analyzing suspicious URLs.
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Network Scanner</h3>
+
+<p>
+Network discovery and enumeration.
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Log Analyzer</h3>
+
+<p>
+Security log analysis using Python.
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="labs">
+
+<h2>Labs & Writeups</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>DockerLabs</h3>
+
+<p>
+Trust, Obsession, Tproot and more.
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>TryHackMe</h3>
+
+<p>
+Hands-on cybersecurity learning.
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Hack The Box</h3>
+
+<p>
+Practical offensive security labs.
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="certs">
+
+<h2>Certifications</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>Cisco</h3>
+
+<p>
+Cybersecurity & Networking
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>TCM Security</h3>
+
+<p>
+Practical Security Training
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Cybrary</h3>
+
+<p>
+IT & Security Foundations
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>
+LinkedIn
+</p>
+
+<p>
+GitHub
+</p>
+
+<p>
+Email
+</p>
+
+</section>
+
+<script src="js/script.js"></script>
 
 </body>
 
