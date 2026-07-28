@@ -9,7 +9,7 @@
 ![Homelab](https://img.shields.io/badge/Homelab-2563EB?style=for-the-badge&logo=vmware&logoColor=white)
 ![Aprendizaje](https://img.shields.io/badge/Aprendizaje-Continuo-success?style=for-the-badge)
 
-![Visitas](https://komarev.com/ghpvc/?username=VictorGlass&style=for-the-badge&color=blue)
+![Visitas](https://komarev.com/ghpvc/?username=VictorGlass&style=for-the-badge&color=blue) 
 
 </div>
 
