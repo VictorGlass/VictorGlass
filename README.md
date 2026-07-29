@@ -166,19 +166,19 @@ Aprender Fundamentos
 Construir Laboratorio
         │
         ▼
-Practicar
+    Practicar
         │
         ▼
-Documentar
+    Documentar
         │
         ▼
-Crear Herramientas
+ Crear Herramientas
         │
         ▼
 Mejorar la Metodología
         │
         ▼
-Seguir Aprendiendo
+  Seguir Aprendiendo
 ```
 
 ---
