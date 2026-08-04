@@ -151,11 +151,6 @@ Writeups documentados siguiendo una metodología profesional de Pentesting.
 
 ---
 
-### 🌍 PortSwigger Notes
-
-Notas y laboratorios de Web Security Academy.
-
----
 
 # 🧠 Mi Metodología
 
