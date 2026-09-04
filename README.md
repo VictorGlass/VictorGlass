@@ -40,15 +40,10 @@ Mi objetivo es construir una base sólida tanto en seguridad ofensiva como defen
 # 🧪 Plataformas de aprendizaje
 
 ![PortSwigger](https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-orange?style=for-the-badge)
-
 ![DockerLabs](https://img.shields.io/badge/DockerLabs-Pentesting-blue?style=for-the-badge)
-
 ![Whoami Labs](https://img.shields.io/badge/Whoami%20Labs-Laboratorios-red?style=for-the-badge)
-
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Aprendizaje-success?style=for-the-badge)
-
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Práctica-9FEF00?style=for-the-badge)
-
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge)
 
 ---
@@ -68,17 +63,11 @@ Mi objetivo es construir una base sólida tanto en seguridad ofensiva como defen
 ## 🌐 Redes
 
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-blue?style=for-the-badge)
-
 ![DNS](https://img.shields.io/badge/DNS-blue?style=for-the-badge)
-
 ![HTTP](https://img.shields.io/badge/HTTP-orange?style=for-the-badge)
-
 ![HTTPS](https://img.shields.io/badge/HTTPS-green?style=for-the-badge)
-
 ![SMB](https://img.shields.io/badge/SMB-purple?style=for-the-badge)
-
 ![SSH](https://img.shields.io/badge/SSH-black?style=for-the-badge)
-
 ![FTP](https://img.shields.io/badge/FTP-yellow?style=for-the-badge)
 
 ---
@@ -86,25 +75,15 @@ Mi objetivo es construir una base sólida tanto en seguridad ofensiva como defen
 ## ⚔️ Ciberseguridad
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F47F24?style=for-the-badge&logo=burpsuite&logoColor=white)
-
 ![Nmap](https://img.shields.io/badge/Nmap-005F99?style=for-the-badge)
-
 ![Metasploit](https://img.shields.io/badge/Metasploit-1572B6?style=for-the-badge)
-
 ![Gobuster](https://img.shields.io/badge/Gobuster-444444?style=for-the-badge)
-
 ![Feroxbuster](https://img.shields.io/badge/Feroxbuster-555555?style=for-the-badge)
-
 ![Nikto](https://img.shields.io/badge/Nikto-333333?style=for-the-badge)
-
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
 ![VMware](https://img.shields.io/badge/VMware-F57C00?style=for-the-badge&logo=vmware)
 
 ---
@@ -145,11 +124,6 @@ Documentación detallada de máquinas de DockerLabs.
 
 ---
 
-### 🧠 Whoami Labs Writeups
-
-Writeups documentados siguiendo una metodología profesional de Pentesting.
-
----
 
 
 # 🧠 Mi Metodología
@@ -175,14 +149,6 @@ Mejorar la Metodología
         ▼
   Seguir Aprendiendo
 ```
-
----
-
-# 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorGlass&theme=tokyo-night&hide_border=true&area=true&custom_title=Evolución%20de%20Commits"/>
-</p>
 
 ---
 
