@@ -2,14 +2,13 @@
 
 # 👋 ¡Hola! Soy Víctor Carrera
 
-### 🛡️ Ciberseguridad • Pentesting • Soporte TI • Homelab
+### 🛡️ Junior Penetration Tester | Cybersecurity Analyst
+### 🐧 Linux • Soporte TI • Homelab
 
 ![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-0A192F?style=for-the-badge&logo=hackaday&logoColor=white)
 ![Offensive Security](https://img.shields.io/badge/Offensive%20Security-DC2626?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Homelab](https://img.shields.io/badge/Homelab-2563EB?style=for-the-badge&logo=vmware&logoColor=white)
-![Aprendizaje](https://img.shields.io/badge/Aprendizaje-Continuo-success?style=for-the-badge)
-
-
+![Aprendizaje Continuo](https://img.shields.io/badge/Aprendizaje-Continuo-success?style=for-the-badge)
 
 </div>
 
@@ -17,173 +16,79 @@
 
 # 👨🏻‍💻 Sobre mí
 
-Soy un apasionado de la **Ciberseguridad** con especial interés en el **Pentesting**, la **Seguridad Web**, **Linux** y el **Soporte TI**.
+Apasionado por la **Ciberseguridad**, la **Seguridad Ofensiva (Pentesting)**, la **Seguridad Web** y los entornos **Linux**.
 
-Actualmente desarrollo mis habilidades mediante laboratorios prácticos, máquinas vulnerables, proyectos personales y documentación técnica.
-
-Mi objetivo es construir una base sólida tanto en seguridad ofensiva como defensiva, documentando cada aprendizaje y convirtiendo cada laboratorio en una oportunidad para mejorar mi metodología de trabajo.
+Enfoque mi perfil de GitHub como un **portafolio de evidencias prácticas**: desarrollo de herramientas de automatización e investigación en Python, diseño e implementación de laboratorios de pruebas (*Homelab*), resolución de entornos vulnerables y documentación técnica detallada.
 
 ---
 
-# 🎯 Actualmente aprendiendo
+# 📂 Estructura de mi Portafolio
 
-- 🌐 Seguridad en Aplicaciones Web
-- 🐧 Linux Privilege Escalation
-- 🔍 Enumeración de Redes
-- ⚔️ Metodología de Pentesting
-- 🐍 Python aplicado a Ciberseguridad
-- 🛡️ Fundamentos de SOC
-- 🏢 Active Directory
+Alineado a las exigencias del sector, estructuro mi trabajo práctico en tres pilares clave:
+
+### 🛠️ Tools & Scripting (Python / Bash)
+Herramientas propias desarrolladas para la detección, análisis y automatización de tareas ofensivas y defensivas:
+* 🔐 **[soc-log-analyzer](https://github.com/VictorGlass/soc-log-analyzer):** Herramienta de simulación SOC en Python para analizar registros de autenticación y detectar patrones sospechosos (ataques de fuerza bruta, inicios de sesión anómalos).
+* 🔗 **[url-malware-analyzer](https://github.com/VictorGlass/url-malware-analyzer):** Analizador heurístico de URLs para identificar características sospechosas vinculadas a phishing y estructuras engañosas.
+* 🔑 **[Password-Auditor](https://github.com/VictorGlass/Password-Auditor):** Script para auditoría de complejidad de contraseñas, cálculo de entropía y detección de patrones débiles.
+* 🛰️ **[Network-scanner-project](https://github.com/VictorGlass/Network-scanner-project):** Escáner de reconocimiento de red y descubrimiento dinámico de puertos TCP abiertos.
+
+### 🧪 Labs & Homelab (Práctica Ofensiva y Defensiva)
+* 🏰 **[Cybersecurity-VMware-Lab](https://github.com/VictorGlass/Cybersecurity-VMware-Lab):** Documentación de mi entorno de laboratorio virtualizado (VMware, Kali Linux, máquinas y servicios vulnerables).
+* 🐳 **[DockerLabs-Writeups](https://github.com/VictorGlass/DockerLabs-Writeups):** Metodología, explotación paso a paso y análisis de causas raíz en máquinas vulnerables de DockerLabs.
+* 🎯 **[Whoami-Labs](https://github.com/VictorGlass/Whoami-Labs):** Resolución de escenarios y laboratorios prácticos.
+
+### 📚 Documentación Técnica & Capacitación
+* 🛡️ **[CYBER-THREAT-DEFENSE](https://github.com/VictorGlass/CYBER-THREAT-DEFENSE):** Documentación técnica, laboratorios y notas sobre Hacking Ético, Ciberinteligencia y Ciberdefensa (Taller Universidad Autónoma).
 
 ---
 
-# 🧪 Plataformas de aprendizaje
+# 🎯 Enfoque Actual de Aprendizaje
 
-![PortSwigger](https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-orange?style=for-the-badge)
-![DockerLabs](https://img.shields.io/badge/DockerLabs-Pentesting-blue?style=for-the-badge)
-![Whoami Labs](https://img.shields.io/badge/Whoami%20Labs-Laboratorios-red?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Aprendizaje-success?style=for-the-badge)
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Práctica-9FEF00?style=for-the-badge)
-![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge)
+- 🌐 Seguridad en Aplicaciones Web (PortSwigger Web Security Academy)
+- 🐧 Escalación de Privilegios en Linux / Windows
+- 🏢 Entornos de Active Directory y Kerberos Attacks
+- 🐍 Python / Bash aplicados a Offensive Security y Automatización
 
 ---
 
 # 🛠️ Tecnologías y Herramientas
 
-## 💻 Sistemas Operativos
-
+### 💻 Sistemas Operativos
 <p>
-
-<img src="https://skillicons.dev/icons?i=linux,windows"/>
-
+  <img src="https://skillicons.dev/icons?i=linux,windows" alt="Sistemas Operativos"/>
 </p>
 
----
-
-## 🌐 Redes
-
-![TCP/IP](https://img.shields.io/badge/TCP/IP-blue?style=for-the-badge)
-![DNS](https://img.shields.io/badge/DNS-blue?style=for-the-badge)
-![HTTP](https://img.shields.io/badge/HTTP-orange?style=for-the-badge)
-![HTTPS](https://img.shields.io/badge/HTTPS-green?style=for-the-badge)
-![SMB](https://img.shields.io/badge/SMB-purple?style=for-the-badge)
-![SSH](https://img.shields.io/badge/SSH-black?style=for-the-badge)
-![FTP](https://img.shields.io/badge/FTP-yellow?style=for-the-badge)
-
----
-
-## ⚔️ Ciberseguridad
-
+### ⚔️ Herramientas de Ciberseguridad & Entornos
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F47F24?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-005F99?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-1572B6?style=for-the-badge)
-![Gobuster](https://img.shields.io/badge/Gobuster-444444?style=for-the-badge)
-![Feroxbuster](https://img.shields.io/badge/Feroxbuster-555555?style=for-the-badge)
-![Nikto](https://img.shields.io/badge/Nikto-333333?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Metasploit](https://img.shields.io/badge/Metasploit-1572B6?style=for-the-badge)
 ![VMware](https://img.shields.io/badge/VMware-F57C00?style=for-the-badge&logo=vmware)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
----
-
-## 💻 Programación
-
+### 💻 Programación & Scripting
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,bash,mysql"/>
-
+  <img src="https://skillicons.dev/icons?i=python,bash,mysql" alt="Programación"/>
 </p>
-
----
-
-# 🚀 Repositorios Destacados
-
-### 🔐 SOC Log Analyzer
-
-Herramienta desarrollada en Python para el análisis de registros de seguridad.
-
----
-
-### 🌐 Network Recon & Vulnerability Scanner
-
-Escáner de reconocimiento de red y enumeración de servicios.
-
----
-
-### 📚 Cybersecurity Learning Journey
-
-Repositorio con apuntes, metodologías, documentación y recursos de estudio.
-
----
-
-### 🐳 DockerLabs Writeups
-
-Documentación detallada de máquinas de DockerLabs.
-
----
-
-
-
-# 🧠 Mi Metodología
-
-```text
-Aprender Fundamentos
-        │
-        ▼
-Construir Laboratorio
-        │
-        ▼
-    Practicar
-        │
-        ▼
-    Documentar
-        │
-        ▼
- Crear Herramientas
-        │
-        ▼
-Mejorar la Metodología
-        │
-        ▼
-  Seguir Aprendiendo
-```
 
 ---
 
 # 🎯 Objetivo Profesional
 
-Mi objetivo es desarrollarme como profesional de la ciberseguridad mediante la práctica constante, la documentación técnica y la creación de proyectos que reflejen mi crecimiento y mi capacidad para resolver problemas reales.
+Orientado a incorporarme en roles de **Seguridad Ofensiva** y **Análisis de Ciberseguridad**, aplicando metodologías de pentesting, análisis de vulnerabilidades y scripting de automatización:
 
-Actualmente busco oportunidades como:
-
-- 💻 Soporte TI
-- 🖥️ Mesa de Ayuda
-- 🛡️ Analista SOC
-- 🔐 Analista de Ciberseguridad Junior
-- ⚙️ Soporte Técnico
+- 🎯 **Junior Penetration Tester** / Ethical Hacker
+- 🛡️ **Cybersecurity Analyst** / Analista SOC Junior
+- 💻 **Soporte TI** / Soporte Técnico Especializado
 
 ---
 
 # 📬 Contacto
 
-💼 **LinkedIn**
-
-> https://www.linkedin.com/in/victor-carrera-37ab23353/
-
-🐙 **GitHub**
-
-> https://github.com/VictorGlass
+💼 **LinkedIn:** [Víctor Carrera](https://www.linkedin.com/in/victor-carrera-37ab23353/)  
+🐙 **GitHub:** [@VictorGlass](https://github.com/VictorGlass)
 
 ---
 
-<div align="center">
-
-## 🚀 "Aprender. Practicar. Documentar. Mejorar."
-
-Gracias por visitar mi perfil.
-
-⭐ ¡Bienvenido a mi viaje de aprendizaje en Ciberseguridad!
-
-</div>
